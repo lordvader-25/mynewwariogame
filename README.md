@@ -25,7 +25,7 @@ You have been trapped by a dragon, oh but not an ordinary dragon..this dragon ha
 Oh yea, that dragon, is actually your Father...
 So, you have to collect 11 stars across 4 levels in Minigame 1, escaping through obstacles and trying not to fall.
 
-While Minigame 2 has his minions, also called "Dragos", you have to avoid all 6 of them in order to beat the entire game and gain freedom, as well as making your dad (the dragon), that your not a failure..
+While Minigame 2 has his minions, also called "Dragos", you have to avoid all 6 of them in order to beat the entire game and gain freedom, as well as making your dad (the dragon) feel and understand, that your not a failure..
 
 # Contols 
 While controls aren't WASD, they're arrow keys -
