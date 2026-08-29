@@ -27,7 +27,8 @@ So, you have to collect 11 stars across 4 levels in Minigame 1, escaping through
 
 While Minigame 2 has his minions, also called "Dragos", you have to avoid all 6 of them in order to beat the entire game and gain freedom, as well as making your dad (the dragon), that your not a failure..
 
-# While the controls here aren't WASD, but arrow keys, right arrow key for moving forward, left arrow key for moving backwards and spacebar to jump...
+# Contols 
+While the controls here aren't WASD, but arrow keys, right arrow key for moving forward, left arrow key for moving backwards and spacebar to jump...
 Now, you basically know everything about my game.
 
 # WHY DID I CREATE THIS GAME?
