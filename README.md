@@ -34,7 +34,10 @@ Now, you basically know everything about my game.
 Questionable question your asking...
 To improve my game developing skills, and because i was bored as well...
 Created it on Godot,
+
 NOW, That you know everything..
+
 Goodluck,
+
 You'll need it (oh yea, minigame 2 is difficult, but IT IS DO-ABLE)
 
