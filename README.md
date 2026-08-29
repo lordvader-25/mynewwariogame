@@ -28,20 +28,24 @@ So, you have to collect 11 stars across 4 levels in Minigame 1, escaping through
 While Minigame 2 has his minions, also called "Dragos", you have to avoid all 6 of them in order to beat the entire game and gain freedom, as well as making your dad (the dragon), that your not a failure..
 
 # Contols 
-While the controls here aren't WASD, but arrow keys, right arrow key for moving forward, left arrow key for moving backwards and spacebar to jump...
-Now, you basically know everything about my game.
+While controls aren't WASD, they're arrow keys -
+* Move forward - right arrow key
+* Move backward - left arrow key
+* Jump - spacebar
 
 # Important Information-
 NO AI USED AT ALL, 
 EVEN IMAGES HAVE BEEN DOWNLOADED FROM THE WEB MADE BY HUMANS (Homo Sapiens)
 links -
-https://www.pixilart.com/art/heart-icon-minecraft-699fb46a495e3d1?ft=user&ft_id=8c73d9558a64516
+* Heart - https://www.pixilart.com/art/heart-icon-minecraft-699fb46a495e3d1?ft=user&ft_id=8c73d9558a64516
 
-https://www.vecteezy.com/vector-art/60217398-a-cute-pixel-art-illustration-of-a-smiling-white-cat-with-a-pastel-pink-background
+* Cute kitty - https://www.vecteezy.com/vector-art/60217398-a-cute-pixel-art-illustration-of-a-smiling-white-cat-with-a-pastel-pink-background
 
-https://pngtree.com/freepng/pixel-golden-trophy-the-winner-trophy-cup-pixel-art-with-sparkle-star_15075624.html
+* Golden trophy - https://pngtree.com/freepng/pixel-golden-trophy-the-winner-trophy-cup-pixel-art-with-sparkle-star_15075624.html
 
-https://pngtree.com/freepng/pixel-dragon-with-blue-eyes-and-silver-horns_20456518.html
+* Dragon - https://pngtree.com/freepng/pixel-dragon-with-blue-eyes-and-silver-horns_20456518.html
+
+* Stars - https://www.vecteezy.com/png/54978929-game-star-pixelated
 
 All these images have been downloaded from the web, rest I cannot find the link or they are created by me.
 # WHY DID I CREATE THIS GAME?
