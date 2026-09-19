@@ -27,6 +27,10 @@ So, you have to collect 11 stars across 4 levels in Minigame 1, escaping through
 
 While Minigame 2 has his minions, also called "Dragos", you have to avoid all 6 of them in order to beat the entire game and gain freedom, as well as making your dad (the dragon) feel and understand, that your not a failure..
 
+Minigame 3 on the other hand, has stars falling from the sky, treasures..but you will have to avoid it, or else you will OOF💀 (die).
+
+and Minigame 4, the easiest..you have 15 seconds, to escape from a platform moving game, goodluck
+
 # Contols 
 While controls aren't WASD, they're arrow keys -
 * Move forward - right arrow key
