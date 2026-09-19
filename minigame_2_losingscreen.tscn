@@ -1,0 +1,32 @@
+[gd_scene format=3 uid="uid://yyp0cu02v4bb"]
+
+[ext_resource type="Script" uid="uid://dfa6xowisxmqh" path="res://minigame_2_losingscreen.gd" id="1_amjo2"]
+[ext_resource type="Texture2D" uid="uid://bt3wnya0xmm1m" path="res://zyhy5y2n9br61.png" id="1_hm1tv"]
+[ext_resource type="Texture2D" uid="uid://15vbnasdnt81" path="res://pngtree-a-cute-pixel-art-illustration-of-smiling-white-paint-with-transparent-vector-png-image_15998177.png" id="2_amjo2"]
+
+[node name="minigame_2_losingscreen" type="Node2D" unique_id=1261862959]
+script = ExtResource("1_amjo2")
+
+[node name="background" type="TextureRect" parent="." unique_id=1192558282]
+offset_right = 1151.0
+offset_bottom = 649.0
+texture = ExtResource("1_hm1tv")
+expand_mode = 1
+
+[node name="text" type="RichTextLabel" parent="." unique_id=387689704]
+clip_contents = false
+offset_left = 344.0
+offset_top = 43.0
+offset_right = 879.0
+offset_bottom = 383.0
+theme_override_constants/outline_size = 30
+theme_override_font_sizes/normal_font_size = 45
+text = "You lost Minigame - 3
+          Try Again"
+
+[node name="character" type="TextureRect" parent="." unique_id=937361842]
+offset_left = 83.0
+offset_top = 230.0
+offset_right = 443.0
+offset_bottom = 590.0
+texture = ExtResource("2_amjo2")

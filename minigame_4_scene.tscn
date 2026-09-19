@@ -1,0 +1,38 @@
+[gd_scene format=3 uid="uid://b3vobx6n3ho1e"]
+
+[ext_resource type="Script" uid="uid://d3lk78ela3822" path="res://minigame_4_scene.gd" id="1_jpsji"]
+[ext_resource type="Texture2D" uid="uid://bj4ccy2t2g53s" path="res://fondo_de_sprites__by_noctambulo_edits_div2djl-fullview.jpg" id="1_r7tvc"]
+[ext_resource type="Texture2D" uid="uid://15vbnasdnt81" path="res://pngtree-a-cute-pixel-art-illustration-of-smiling-white-paint-with-transparent-vector-png-image_15998177.png" id="3_f4jue"]
+[ext_resource type="Texture2D" uid="uid://b2gx4sql01isv" path="res://pngtree-pixel-golden-trophy-the-winner-trophy-cup-pixel-art-with-sparkle-png-image_12193294.png" id="4_5iwgx"]
+
+[node name="minigame4_scene" type="Node2D" unique_id=615795881]
+script = ExtResource("1_jpsji")
+
+[node name="background" type="TextureRect" parent="." unique_id=26376922]
+offset_right = 1149.0
+offset_bottom = 653.0
+texture = ExtResource("1_r7tvc")
+
+[node name="kitty" type="TextureRect" parent="." unique_id=635615615]
+offset_left = 45.0
+offset_top = 239.0
+offset_right = 511.0
+offset_bottom = 690.0
+texture = ExtResource("3_f4jue")
+
+[node name="trophy" type="TextureRect" parent="." unique_id=473607675]
+offset_left = 473.0
+offset_top = 112.0
+offset_right = 993.0
+offset_bottom = 641.0
+texture = ExtResource("4_5iwgx")
+
+[node name="RichTextLabel" type="RichTextLabel" parent="." unique_id=887336007]
+clip_contents = false
+offset_left = 62.0
+offset_top = 85.0
+offset_right = 604.0
+offset_bottom = 415.0
+theme_override_constants/outline_size = 25
+theme_override_font_sizes/normal_font_size = 28
+text = "\"OH MY GOD, YOU ARE DOING SO WELL, YOUU HAVE COMPLETED MINIGAME 3, Time for Minigame 4  (ps, Asian Dragon is waiting for you in the end)\" - Kitty"

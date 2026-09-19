@@ -1,0 +1,41 @@
+[gd_scene format=3 uid="uid://dtrof0ij3ocgg"]
+
+[ext_resource type="Texture2D" uid="uid://bt3wnya0xmm1m" path="res://zyhy5y2n9br61.png" id="1_0s10p"]
+[ext_resource type="Script" uid="uid://cl0a2bh6kmedm" path="res://minigame_4_losingscreen.gd" id="1_ney5f"]
+[ext_resource type="Texture2D" uid="uid://bjy437kwuobil" path="res://—Pngtree—pixel dragon with blue eyes_20456518.png" id="2_ney5f"]
+[ext_resource type="Texture2D" uid="uid://15vbnasdnt81" path="res://pngtree-a-cute-pixel-art-illustration-of-smiling-white-paint-with-transparent-vector-png-image_15998177.png" id="3_8dcux"]
+
+[node name="minigame_4_losingscreen" type="Node2D" unique_id=1409031516]
+script = ExtResource("1_ney5f")
+
+[node name="background" type="TextureRect" parent="." unique_id=866399352]
+offset_right = 1155.0
+offset_bottom = 645.0
+texture = ExtResource("1_0s10p")
+expand_mode = 1
+
+[node name="dragon" type="TextureRect" parent="." unique_id=666533197]
+offset_left = 664.0
+offset_top = 220.0
+offset_right = 1092.0
+offset_bottom = 536.0
+texture = ExtResource("2_ney5f")
+expand_mode = 1
+
+[node name="kitty" type="TextureRect" parent="." unique_id=140828398]
+offset_left = 149.0
+offset_top = 216.0
+offset_right = 509.0
+offset_bottom = 576.0
+texture = ExtResource("3_8dcux")
+
+[node name="text" type="RichTextLabel" parent="." unique_id=928100254]
+clip_contents = false
+offset_left = 341.0
+offset_top = 63.0
+offset_right = 925.0
+offset_bottom = 278.0
+theme_override_constants/outline_size = 30
+theme_override_font_sizes/normal_font_size = 45
+text = "You lost Minigame - 4
+           Try Again"

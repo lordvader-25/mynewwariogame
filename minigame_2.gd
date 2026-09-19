@@ -17,22 +17,22 @@ func _process(delta: float) -> void:
 		if time_left <= 0:
 			level_cleared = true
 			print("YOU SURVIVED, YAYY!!")
-			get_tree().change_scene_to_file("res://winningscreen_3.tscn")	
+			get_tree().change_scene_to_file("res://minigame_3_scene.tscn")	
 func _on_udedfallzone_body_entered(body: Node2D) -> void:
 	if body.name == "Player":
 		level_cleared = true
 		print("U fell into the pit stoobid! Going to losing screen...")
-		get_tree().change_scene_to_file("res://losingscreen.tscn")
+		get_tree().change_scene_to_file("res://minigame_2_2_losingscreen.tscn")
 func _on_areaenemy_1_body_entered(body: Node2D) -> void:
 	if body.name == "Player":
 		level_cleared = true
 		print("You stoobid lah, the ghost got u.! Sent to losing screen...")
-		get_tree().change_scene_to_file("res://losingscreen.tscn")
+		get_tree().change_scene_to_file("res://minigame_2_2_losingscreen.tscn")
 func _on_areaenemy_2_body_entered(body: Node2D) -> void:
 	if body.name == "Player":
 		level_cleared = true
 		print("You stoobid lah, the ghost got u.! Sent to losing screen...")
-		get_tree().change_scene_to_file("res://losingscreen.tscn")
+		get_tree().change_scene_to_file("res://minigame_2_2_losingscreen.tscn")
 
 	
 
@@ -41,25 +41,25 @@ func _on_areaenemy_3_body_entered(body: Node2D) -> void:
 	if body.name == "Player":
 		level_cleared = true
 		print("You stoobid lah, the ghost got u.! Sent to losing screen...")
-		get_tree().change_scene_to_file("res://losingscreen.tscn")
+		get_tree().change_scene_to_file("res://minigame_2_2_losingscreen.tscnn")
 
 
 func _on_areaenenemy_4_body_entered(body: Node2D) -> void:
 	if body.name == "Player":
 		level_cleared = true
 		print("You stoobid lah, the ghost got u.! Sent to losing screen...")
-		get_tree().change_scene_to_file("res://losingscreen.tscn")	
+		get_tree().change_scene_to_file("res://minigame_2_2_losingscreen.tscn")	
 
 
 func _on_areaenemy_5_body_entered(body: Node2D) -> void:
 	if body.name == "Player":
 		level_cleared = true
 		print("You stoobid lah, the ghost got u.! Sent to losing screen...")
-		get_tree().change_scene_to_file("res://losingscreen.tscn")		
+		get_tree().change_scene_to_file("res://minigame_2_2_losingscreen.tscn")		
 
 
 func _on_areaenemy_6_body_entered(body: Node2D) -> void:
 	if body.name == "Player":
 		level_cleared = true
 		print("You stoobid lah, the ghost got u.! Sent to losing screen...")
-		get_tree().change_scene_to_file("res://losingscreen.tscn")	
+		get_tree().change_scene_to_file("res://minigame_2_2_losingscreen.tscn")	
